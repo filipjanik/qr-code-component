@@ -49,13 +49,13 @@ img {
 
 .card__title {
   color: var(--clr-slate-900);
-  font-size: 1.5rem;
-  margin: 1rem auto;
+  font-size: 1.4rem;
+  margin-top: 1.5rem;
 }
 
 .card__description {
   color: var(--clr-slate-500);
-  margin-bottom: 1rem;
+  margin: 1rem auto 1.5rem auto;
   max-width: 25ch;
   margin-inline: auto;
 }
